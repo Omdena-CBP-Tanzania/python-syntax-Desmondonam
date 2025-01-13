@@ -66,7 +66,8 @@ def set_operations(list1, list2):
     Returns:
         set: Common elements
     """
-    return set(list1) & set(list2)
+    # return set(list1) & set(list2)
+    return None
 
 def arithmetic_ops(a, b):
     """
